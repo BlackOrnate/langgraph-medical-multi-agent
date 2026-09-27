@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated on first run from data/medical_guideline.md
+faiss_index_medical/

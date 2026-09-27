@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-ollama
+langchain-community
+langchain-text-splitters
+langchain-mcp-adapters
+mcp
+faiss-cpu
+gradio
+python-dotenv
